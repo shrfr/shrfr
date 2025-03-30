@@ -3,7 +3,7 @@
 Hi there! I'm **Shreya Bhattacharjee**, a passionate **B.Tech IT student** 🚀, aspiring **Full Stack Developer** 🌐, and an enthusiastic learner 📚. Here's what you need to know about me:
 
 ## 🌟 About Me
-- 🎓 **3rd Semester B.Tech** student at **KIIT University**.
+- 🎓 **B.Tech** student at **KIIT University**.
 - 🖥️ Passionate about **Data Science** 📊 and **Web Development** 🌟.
 - 🔍 Exploring **Backend Development with Python** and building exciting projects.
 - ✍️ Open to collaborating on **open-source projects** and contributing to impactful solutions.
