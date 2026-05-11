@@ -68,18 +68,8 @@ Hi! I'm **Shreya**, a B.Tech IT student at **KIIT University** passionate about 
 
 ---
 
-## 🚀 Currently Working On
 
-```python
-shreya = {
-    "focus"    : ["Data Analytics", "Business Intelligence", "Product Analytics"],
-    "learning" : ["Machine Learning", "Feature Engineering", "Full Stack Dev"],
-    "tools"    : ["Python", "SQL", "Pandas", "Scikit-Learn"],
-    "goal"     : "Build data products that drive real decisions",
-    "open_to"  : ["Collaborations", "Internships", "Open Source"]
-}
-` ` `
-```
+
 
 
 
